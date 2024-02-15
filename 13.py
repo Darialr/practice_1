@@ -1,0 +1,5 @@
+r1 = int(input())
+r2 = int(input())
+area = abs((r1**2*3.14)-(r2**2*3.14))
+print(area)
+print(453416-254.34)
