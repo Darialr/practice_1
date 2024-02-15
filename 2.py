@@ -1,6 +1,6 @@
-print('Привет,Python!',
-      'Hello,Python!',
-      'Bonjour Python!',
-      'Hej,Python!',
-      'Hola,Python!',
-      sep='\n')
+print('Привет,Python!')
+print('Hello,Python!')
+print('Bonjour Python!')
+print('Hej,Python!')
+print('Hola,Python!')
+
