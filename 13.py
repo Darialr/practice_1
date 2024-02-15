@@ -1,5 +1,5 @@
+import math
 r1 = int(input())
 r2 = int(input())
-area = abs((r1**2*3.14)-(r2**2*3.14))
+area = abs((r1**2*math.pi)-(r2**2*math.pi))
 print(area)
-print(453416-254.34)
